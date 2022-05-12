@@ -7,10 +7,12 @@
 # dotenv environment variable files
 .env
 
+# gcp key file
+noble*
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 # misc
 .DS_Store
-
