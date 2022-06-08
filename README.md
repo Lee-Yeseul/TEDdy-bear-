@@ -48,7 +48,7 @@
 | ------------------------------------------ | ------------ |
 | [엄혜진](https://github.com/hyejineom-dev) | 팀장, 백엔드 |
 | 성기환                                     | 백엔드       |
-| [이예슬](https://github.com/Lee-Yeseul)    | 백엔드       |
-| [강미선](https://github.com/KangMiSun17)   | 프론트엔드   |
+| [이예슬](https://github.com/Lee-Yeseul)    | 백엔드, 최종발표       |
+| [강미선](https://github.com/KangMiSun17)   | 프론트엔드, 중간발표   |
 | [박보선](https://github.com/bedurgi999)    | 프론트엔드   |
 | 주강현                                     | 프론트엔드   |
